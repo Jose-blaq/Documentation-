@@ -1,15 +1,6 @@
 body { 
  font-family: Arial, Helvetica, sans-serif;
 }
-.dot{
- width: 10px;
- height: 10px;
- background: rgb(10, 106, 216);
- margin: 6px;
- border-radius: 100%;
- box-shadow: inset 0px 0px 0px 2px white;
- border: 1px solid rgb(34, 0, 255);
-}
 .container{
  display: grid;
  grid-template-columns: auto auto;
@@ -21,7 +12,7 @@ body {
  padding-left: 180px;
 }
 #pro{
- padding-right: 180px;
+ padding-left: 80px;
 }
 
 .container1{
